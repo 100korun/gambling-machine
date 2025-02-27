@@ -11,7 +11,7 @@ This application creates a virtual gambling machine with spinning reels, wins, s
 ## Installation
 
 1. Clone the repository to your computer:
-   git clone https://github.com/100korun/gambling-machnine.git
+   git clone https://github.com/100korun/gambling-machine.git
 2. Install the dependencies:
    pip install matplotlib pygame tk
 3. Run the application:
